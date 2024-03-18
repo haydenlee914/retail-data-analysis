@@ -1,6 +1,6 @@
 # ACSE Supermarket Data Understanding
 
-* Project : Retail Data Understanding and Text Mining
+* Project : Retail Data Understanding and Analysis
 * Project duration : 2024.02.23 - 2024.03.08
 * Contributors : Anne Lim, Benny Uhoranishema, Silvia Lee, Yaeeun Lee, Zhuhuang Jiang
 * Project Report: [LINK](https://github.com/haydenlee914/retail-data-analysis/blob/main/AI%26ML%20at%20Scale%20Project%201%20Report.pdf)
